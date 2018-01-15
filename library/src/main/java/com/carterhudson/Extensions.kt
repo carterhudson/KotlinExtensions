@@ -1,4 +1,4 @@
-package com.carterhudson.lib
+package com.carterhudson
 
 // Carter Hudson 9/25/17
 

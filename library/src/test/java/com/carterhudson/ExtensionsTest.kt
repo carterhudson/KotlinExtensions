@@ -1,9 +1,9 @@
-package com.carterhudson.lib
+package com.carterhudson
 
 import com.natpryce.hamkrest.assertion.assert
 import com.natpryce.hamkrest.sameInstance
-import junit.framework.Assert
 import org.junit.After
+import org.junit.Assert
 import org.junit.Test
 
 class KotlinExtensionTest {

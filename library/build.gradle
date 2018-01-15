@@ -69,3 +69,7 @@ dependencies {
 repositories {
     mavenCentral()
 }
+
+tasks.withType(Javadoc).all {
+    enabled = false
+}

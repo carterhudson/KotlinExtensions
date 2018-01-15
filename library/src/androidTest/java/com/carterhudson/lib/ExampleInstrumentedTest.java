@@ -1,4 +1,4 @@
-package com.carterhudson.lib;
+package com.carterhudson.library;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
